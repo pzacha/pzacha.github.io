@@ -1,6 +1,6 @@
 # Portfolio
 > https://pzacha.github.io/
 
-## Acknowledgments
+## Credits
 
-Credit to HTML5 UP for the design.
+Based on HTMP5 UP design.
